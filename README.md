@@ -1,7 +1,7 @@
 # ecommerce-website
-## APP_UI
 
-### app_UI
+
+### screenshots
 <p allign="center">
 <img src="frontend/src/screenshots/home.png" alt="hompage" style="margin: 40px" width="300" height='450px'>
 <img src="frontend/src/screenshots/products.png" alt="login" style="padding: 20px"width="300" height='450px'>
